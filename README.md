@@ -39,11 +39,22 @@ Follow these steps in order to process your data:
 * **4.	Execute focal mechanism calculation**: ```python 4.run_HASH.py```
 
 ### 3.3 Interpreting Results and Quality Control
+
 The output files are stored in the following locations:
-Polarity Results: ./example_projects/output/polarity/example_polarity.dat
-Amplitude Ratios: ./example_projects/output/focal_mechanisms/HASH_io/example.amp
-Amplitude Ratio Corrections: ./example_projects/output/focal_mechanisms/HASH_io/example.statcor
-Final Focal Mechanism Solutions: ./example_projects/output/focal_mechanisms/example_fms.csv (Summary table)
-./example_projects/output/focal_mechanisms/example_raw.out (Raw HASH output)
+* **Polarity Results**: ```./example_projects/output/polarity/example_polarity.dat```
+* **Amplitude Ratios**: ```./example_projects/output/focal_mechanisms/HASH_io/example.amp```
+* **Amplitude Ratio Corrections**: ```./example_projects/output/focal_mechanisms/HASH_io/example.statcor```
+* **Final Focal Mechanism Solutions**: ```./example_projects/output/focal_mechanisms/example_fms.csv``` (Summary table)
+```./example_projects/output/focal_mechanisms/example_raw.out``` (Raw HASH output)
 
+# 4 Citation
+### When using this software, please cite the following publications:
 
+* **Wang, L.**, Meng, H., Zhou, Y., Hou, Y., Pei, W., and S. Zhou. (2025). **FMFM: A Python Package for Automatically Computing First Motion-based Focal Mechanism Solutions**, *Seismological Research Letters* (under review).
+* **Hardebeck, J. L.**, & Shearer, P. M. (2002). A new method for determining first-motion focal mechanisms. *Bulletin of the Seismological Society of America*, 92(6), 2264-2276.
+* **Hardebeck, J. L.**, & Shearer, P. M. (2003). Using S/P Amplitude Ratios to Constrain the Focal Mechanisms of Small Earthquakes. *Bulletin of the Seismological Society of America*, 93(6), 2434–2444.
+
+### Related Publications
+
+* **Wang, L.**, Y. Zhou, H. Meng, W. Pei, and S. Zhou (2025). P-wave First-motion Polarity Determination Using Order Statistics and Entropy Theory (POSE) with Applications to Southeastern Tibetan Plateau. *ESS Open Archive*.
+* **Pei, W.**, J. Zhuang, and S. Zhou (2025). Stochastic determination of arrival time and initial polarity of seismic waveform. *Earth, Planets and Space*, 77(1), 36.
