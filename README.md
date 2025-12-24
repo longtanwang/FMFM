@@ -8,7 +8,7 @@ The focal mechanisms of small-to-moderate earthquakes provide vital constraints 
 
 To overcome these challenges, **FMFM** (**F**irst **M**otion-based **F**ocal **M**echanism) offers an automatic, rule-based framework designed for the end-to-end processing of large-scale seismic data. By transitioning directly from raw waveforms to focal mechanism solutions, FMFM integrates the POSE algorithm (Wang et al., 2025) for probabilistic polarity identification, automated S/P ratio calculation and correction, and the HASH inversion module into a single streaming architecture. This integrated workflow eliminates the need for complex, multi-step data exchanges between disparate tools, providing a robust and efficient solution for generating high-resolution focal mechanism catalogs. 
 
-This manual is intended to help researchers run HASH on their own data sets. The source code may be obtained at: https://github.com/longtanwang/FMFM. The methodology is discussed in more detail in our publications.
+The source code can be obtained at: https://github.com/longtanwang/FMFM. The methodology is discussed in more detail in our publications.
 
 ## 2. Installation
 **FMFM** is a software suite designed for focal mechanism determination.
