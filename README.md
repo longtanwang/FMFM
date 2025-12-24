@@ -21,7 +21,9 @@ The source code can be obtained at: https://github.com/longtanwang/FMFM. The met
 ### 3.1 Data Preparation
 FMFM requires continuous waveform data, earthquake catalogs, and phase arrival times as input.
 
-•	Test Examples: We have provided pre-configured test examples in the ```./example_projects``` directory.
+•	Test Examples: The ```./example_projects``` directory already contains pre-configured catalogs and phase data. However, to run the demo scripts, you must download the sample waveforms (~600MB) separately.
+* **Download Wavefroms:** Download waveform from https://github.com/longtanwang/FMFM/releases/latest
+* **Data Setup:** After downloading and unzipping, place the waveform files into the following directory: ```./example_projects/input/example_data```
 
 •	New Projects: When initiating a new project, please ensure the data is formatted according to these examples.
 
