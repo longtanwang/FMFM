@@ -40,7 +40,7 @@ Follow these steps in order to process your data:
 * **3.	Prepare for focal mechanism calculation**: ```python 3.prep_HASH.py```
 * **4.	Execute focal mechanism calculation**: ```python 4.run_HASH.py```
 
-### 3.3 Interpreting Results and Quality Control
+### 3.3 Output Files
 
 The output files are stored in the following locations:
 * **Polarity Results**: ```./example_projects/output/polarity/example_polarity.dat```
