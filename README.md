@@ -57,5 +57,5 @@ The output files are stored in the following locations:
 * **Hardebeck, J. L.**, and Shearer, P. M. (2003). Using S/P Amplitude Ratios to Constrain the Focal Mechanisms of Small Earthquakes. Bulletin of the Seismological Society of America, 93(6), 2434–2444.
 
 ### Related Publications
-* **Wang, L.**, Zhou, Y., Meng, H., Pei, W., and Zhou, S. (2025). P-wave First-motion Polarity Determination Using Order Statistics and Entropy Theory (POSE) with Applications to Southeastern Tibetan Plateau. ESS Open Archive.
+* **Wang, L.**, Zhou, Y., Meng, H., Pei, W., and Zhou, S. (2025). P-wave First-motion Polarity Determination Using Order Statistics and Entropy Theory (POSE) with Applications to Southeastern Tibetan Plateau. Journal of Geophysical Research: Solid Earth, 131, e2025JB032118. https://doi.org/10.1029/2025JB032118.
 * **Pei, W.**, Zhuang, J., and Zhou, S. (2025). Stochastic determination of arrival time and initial polarity of seismic waveform. Earth, Planets and Space, 77(1), 36.
